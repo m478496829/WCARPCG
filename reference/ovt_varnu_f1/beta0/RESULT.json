@@ -1,0 +1,57 @@
+{
+  "status": "COMPLETE",
+  "case": "ovt_varnu_f1",
+  "beta": 0,
+  "n": 2187,
+  "eigenvalue_method": "All eigenvalues and eigenvectors from complex128 dense Hermitian LAPACK divide-and-conquer; direct un-symmetrized operator residuals checked",
+  "min_eigenvalue": 0.00010984337531548531,
+  "max_eigenvalue": 0.9999999647766216,
+  "lambda_min_positive": 0.00010984337531548531,
+  "kappa_positive": 9103.871416045655,
+  "minimum_eigenvalue_resolved": true,
+  "numerical_uncertainty_scale": 1.0489520563597778e-12,
+  "positive_threshold": 1.0489520563597778e-11,
+  "negative_count": 0,
+  "unresolved_or_zero_count": 0,
+  "counts_below": {
+    "1e-06": 0,
+    "1e-05": 0,
+    "0.0001": 0,
+    "0.001": 53,
+    "0.01": 230,
+    "0.1": 727
+  },
+  "M_range": [
+    1.0,
+    6.0
+  ],
+  "copy_count": 7047,
+  "setup_checks": {
+    "weight_formula_max_relative": 0.0,
+    "metric_max_relative": 0.0,
+    "row_denom_max_relative": 1.1102230246251567e-15,
+    "scalar_floors_triggered": 0
+  },
+  "operator_checks": {
+    "local_forward_relative": 3.901069843525779e-16,
+    "forward_consensus_relative": 5.032644160737456e-16,
+    "local_backward_relative": 5.789409972492545e-16,
+    "double_sweep_relative": 6.888266828152673e-16,
+    "dispatcher_relative": 6.888266828152673e-16,
+    "original_A_probe_relative": 2.901432817734518e-16,
+    "hermitian_relative": 2.5006576911352437e-16,
+    "factorization_relative": 3.912505981913259e-16,
+    "eigendecomposition_fro_relative": 4.462300993879749e-15,
+    "low40_max_eigenpair_absolute_residual": 2.6214931150254835e-15,
+    "max_eigenpair_absolute_residual": 4.657171396226896e-15,
+    "orthogonality_fro_relative": 5.370907404500837e-15,
+    "low40_energy_identity_absolute": 3.152859917587847e-16,
+    "probe_energy_identity_absolute": 4.440892098500626e-16
+  },
+  "low20_energy": {
+    "row_mean": 0.00020870434507095137,
+    "copy_mean": 3.696306783189589e-05
+  },
+  "elapsed_s": 7.595046520000324,
+  "record_kind": "Archived result from the original small-system spectral study, not a new timing measurement."
+}

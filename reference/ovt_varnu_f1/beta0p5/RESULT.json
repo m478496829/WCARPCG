@@ -1,0 +1,57 @@
+{
+  "status": "COMPLETE",
+  "case": "ovt_varnu_f1",
+  "beta": 0.5,
+  "n": 2187,
+  "eigenvalue_method": "All eigenvalues and eigenvectors from complex128 dense Hermitian LAPACK divide-and-conquer; direct un-symmetrized operator residuals checked",
+  "min_eigenvalue": 0.0003043802197421277,
+  "max_eigenvalue": 1.0000000000000056,
+  "lambda_min_positive": 0.0003043802197421277,
+  "kappa_positive": 3285.3646036763166,
+  "minimum_eigenvalue_resolved": true,
+  "numerical_uncertainty_scale": 1.6982548927348413e-12,
+  "positive_threshold": 1.6982548927348414e-11,
+  "negative_count": 0,
+  "unresolved_or_zero_count": 0,
+  "counts_below": {
+    "1e-06": 0,
+    "1e-05": 0,
+    "0.0001": 0,
+    "0.001": 25,
+    "0.01": 146,
+    "0.1": 524
+  },
+  "M_range": [
+    0.6267526090613096,
+    1.8795185023276346
+  ],
+  "copy_count": 7047,
+  "setup_checks": {
+    "weight_formula_max_relative": 2.2151097796144845e-16,
+    "metric_max_relative": 3.133681828883613e-16,
+    "row_denom_max_relative": 1.155007511966744e-15,
+    "scalar_floors_triggered": 0
+  },
+  "operator_checks": {
+    "local_forward_relative": 4.675179814845554e-16,
+    "forward_consensus_relative": 6.077141674050118e-16,
+    "local_backward_relative": 6.920284464327042e-16,
+    "double_sweep_relative": 7.380297033786458e-16,
+    "dispatcher_relative": 7.380297033786458e-16,
+    "original_A_probe_relative": 2.901432817734518e-16,
+    "hermitian_relative": 3.666097301436171e-16,
+    "factorization_relative": 4.888891521032614e-16,
+    "eigendecomposition_fro_relative": 4.9197530103639234e-15,
+    "low40_max_eigenpair_absolute_residual": 3.7157882046524554e-15,
+    "max_eigenpair_absolute_residual": 7.889239739974395e-15,
+    "orthogonality_fro_relative": 5.476438996422169e-15,
+    "low40_energy_identity_absolute": 2.697495005143935e-16,
+    "probe_energy_identity_absolute": 6.106226635438361e-16
+  },
+  "low20_energy": {
+    "row_mean": 0.0004998108704504939,
+    "copy_mean": 9.383071570313116e-05
+  },
+  "elapsed_s": 7.439596444950439,
+  "record_kind": "Archived result from the original small-system spectral study, not a new timing measurement."
+}

@@ -1,0 +1,11 @@
+{
+  "case": "ovt_varnu_f1",
+  "beta": 0.5,
+  "iterations": 445,
+  "unknowns": 2187,
+  "row_scaled_relative_residual": 9.53813108705039e-09,
+  "direct_solution_relative_residual": 1.874188986327553e-15,
+  "relative_complex_field_difference_to_direct": 1.1505673637285413e-07,
+  "method": "CG in the induced M metric, implemented by the equivalent similarity transform",
+  "scope": "Portable small-system reproduction demonstration; not a published production timing result."
+}

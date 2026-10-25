@@ -1,0 +1,113 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "case": "ovt_varnu_f1",
+      "beta": 0.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 1.5120257960588598e-16,
+      "forward_relative_difference": 1.1155683480148743e-16,
+      "affine_kernel_relative_difference": 1.645988264756483e-16,
+      "archived_kappa_positive": 9103.871416045655
+    },
+    {
+      "case": "ovt_varnu_f1",
+      "beta": 0.5,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 2.886788158668305e-16,
+      "forward_relative_difference": 2.225139476619972e-16,
+      "affine_kernel_relative_difference": 2.735817671885166e-16,
+      "archived_kappa_positive": 3285.3646036763166
+    },
+    {
+      "case": "ovt_varnu_f1",
+      "beta": 1.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 2.825147786483718e-16,
+      "forward_relative_difference": 2.075170427793311e-16,
+      "affine_kernel_relative_difference": 4.140873085278327e-16,
+      "archived_kappa_positive": 7947.178265259475
+    },
+    {
+      "case": "ovt_varnu_f1p5",
+      "beta": 0.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 1.5325979485523982e-16,
+      "forward_relative_difference": 1.1322536010246683e-16,
+      "affine_kernel_relative_difference": 1.6577459594879498e-16,
+      "archived_kappa_positive": 4937.985339015971
+    },
+    {
+      "case": "ovt_varnu_f1p5",
+      "beta": 0.5,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 2.899058721637655e-16,
+      "forward_relative_difference": 2.26297464051831e-16,
+      "affine_kernel_relative_difference": 2.483375931790187e-16,
+      "archived_kappa_positive": 1772.3067059507998
+    },
+    {
+      "case": "ovt_varnu_f1p5",
+      "beta": 1.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 2.8422091529884733e-16,
+      "forward_relative_difference": 2.093599136036054e-16,
+      "affine_kernel_relative_difference": 4.579498398067695e-16,
+      "archived_kappa_positive": 4525.052475077246
+    },
+    {
+      "case": "ovt_nu25_f1",
+      "beta": 0.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 1.497720618830427e-16,
+      "forward_relative_difference": 1.095170364386719e-16,
+      "affine_kernel_relative_difference": 1.577733899236042e-16,
+      "archived_kappa_positive": 10392.089356650922
+    },
+    {
+      "case": "ovt_nu25_f1",
+      "beta": 0.5,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 2.83539866348163e-16,
+      "forward_relative_difference": 2.2282119721756405e-16,
+      "affine_kernel_relative_difference": 2.544493375526669e-16,
+      "archived_kappa_positive": 3723.5510142470653
+    },
+    {
+      "case": "ovt_nu25_f1",
+      "beta": 1.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 2.780886549369462e-16,
+      "forward_relative_difference": 2.0380138007124708e-16,
+      "affine_kernel_relative_difference": 4.2841621163553985e-16,
+      "archived_kappa_positive": 8799.247808851553
+    },
+    {
+      "case": "ovt_nu49_f1",
+      "beta": 0.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 1.4880352338015393e-16,
+      "forward_relative_difference": 1.0847624711929356e-16,
+      "affine_kernel_relative_difference": 1.376527263882364e-16,
+      "archived_kappa_positive": 5015483.601202412
+    },
+    {
+      "case": "ovt_nu49_f1",
+      "beta": 0.5,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 3.093363082251646e-16,
+      "forward_relative_difference": 2.35685812780071e-16,
+      "affine_kernel_relative_difference": 2.1233078201387179e-16,
+      "archived_kappa_positive": 1485136.0161381473
+    },
+    {
+      "case": "ovt_nu49_f1",
+      "beta": 1.0,
+      "unknowns": 2187,
+      "double_sweep_relative_difference": 3.44425878682446e-16,
+      "forward_relative_difference": 2.5562244705080116e-16,
+      "affine_kernel_relative_difference": 5.025520615385768e-16,
+      "archived_kappa_positive": 2650123.884904361
+    }
+  ]
+}

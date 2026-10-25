@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.so
+*.dylib
+.venv/
+results/
+paper_figure/*.pdf
+paper_figure/*.png
+paper_figure/*.svg
+paper_figure/FIGURE_MANIFEST.json

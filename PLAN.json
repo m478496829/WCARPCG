@@ -1,0 +1,51 @@
+{
+  "primary_unknown_count": 2187,
+  "physical_shape": [
+    5,
+    5,
+    5
+  ],
+  "pml_layers": 2,
+  "computational_shape": [
+    9,
+    9,
+    9
+  ],
+  "h_m": 300.0,
+  "decomposition": [
+    2,
+    2,
+    2
+  ],
+  "nranks_export": 8,
+  "cases": [
+    {
+      "id": "ovt_varnu_f1",
+      "model": "overthrust_source_crop",
+      "frequency_hz": 1.0
+    },
+    {
+      "id": "ovt_varnu_f1p5",
+      "model": "overthrust_source_crop",
+      "frequency_hz": 1.5
+    },
+    {
+      "id": "ovt_nu25_f1",
+      "model": "same_Vs_rho_nu25",
+      "frequency_hz": 1.0
+    },
+    {
+      "id": "ovt_nu49_f1",
+      "model": "same_Vs_rho_nu49",
+      "frequency_hz": 1.0
+    }
+  ],
+  "beta": [
+    0,
+    0.5,
+    1
+  ],
+  "eta_shift": 1e-08,
+  "row_relaxation": 1.0,
+  "dtype": "complex128"
+}

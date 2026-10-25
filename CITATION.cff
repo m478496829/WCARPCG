@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this reproducibility package."
+title: "WCARP-CG: small-system reproducibility package"
+version: 1.0.0
+date-released: 2026-10-26
+type: software
+authors:
+  - family-names: Mao
+    given-names: Rui
+  - family-names: Li
+    given-names: Yang
+  - family-names: Fu
+    given-names: Zhenwu
+  - family-names: Gao
+    given-names: Guangyu
+  - family-names: Chen
+    given-names: Yong
+abstract: "Small-system numerical inputs, weighted row-sweep and CG code, archived spectra, and plotting scripts accompanying Column-Norm-Weighted CARP-CG: A Metric-Consistent Formulation for Frequency-Domain Elastic Wave Systems."
+keywords:
+  - CARP-CG
+  - Kaczmarz
+  - conjugate gradient
+  - elastic waves
+  - reproducibility
