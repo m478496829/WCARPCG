@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite the accompanying manuscript when using this reproducibility package."
-title: "WCARP-CG: small-system reproducibility package"
+title: "WCARPCG"
 version: 1.0.0
 date-released: 2026-10-26
 type: software

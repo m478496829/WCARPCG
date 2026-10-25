@@ -1,6 +1,6 @@
 {
   "manuscript_title": "Column-Norm-Weighted CARP-CG: A Metric-Consistent Formulation for Frequency-Domain Elastic Wave Systems",
-  "manuscript_revision": "JSC Revision28, typography and references delivery, 2026-10-26",
+  "manuscript_revision": "Revision28, typography and references delivery, 2026-10-26",
   "source_study": "cmame_defect_spectrum_20261020",
   "original_export_date": "2026-10-20",
   "operators": "Frozen row-scaled complex elastic systems and local-copy weights. All stored columns including zero coefficients are retained.",
